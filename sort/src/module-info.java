@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author lhrotk
- *
- */
-module sort {
-}
